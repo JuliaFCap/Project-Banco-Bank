@@ -8,19 +8,11 @@ O projeto foi estruturado com foco em segurança, usabilidade e escalabilidade, 
 
 - <a href="https://github.com/JuliaFCap/Trabalho-Arnaldo/blob/main/Engenharia%20de%20Software/Hist%C3%B3ria%20de%20Usu%C3%A1rio/Hist%C3%B3rias%20de%20Usu%C3%A1rio.pdf" target="_blank">História de Usuário</a>
 
-- <a href="https://github.com/JuliaFCap/Trabalho-Arnaldo/blob/main/Engenharia%20de%20Software/Casos%20de%20Uso/diagram%201.png" target="_blank">1° Caso de Uso</a>
-
-- <a href="https://github.com/JuliaFCap/Trabalho-Arnaldo/blob/main/Engenharia%20de%20Software/Casos%20de%20Uso/diagram%202.png" target="_blank">2° Caso de Uso</a>
-
-- <a href="https://github.com/JuliaFCap/Trabalho-Arnaldo/blob/main/Engenharia%20de%20Software/Casos%20de%20Uso/diagram%203.png" target="_blank">3° Caso de Uso</a>
-
-- <a href="https://github.com/JuliaFCap/Trabalho-Arnaldo/blob/main/Engenharia%20de%20Software/Casos%20de%20Uso/Diagram%204.png" target="_blank">4° Caso de Uso</a>
+- <a href="https://github.com/JuliaFCap/Project-Banco-Bank/tree/main/Engenharia%20de%20Software/Casos%20de%20Uso" target="_blank">Caso de Uso</a>
 
 - <a href="https://github.com/JuliaFCap/Trabalho-Arnaldo/blob/main/Engenharia%20de%20Software/Diagrama%20de%20sequ%C3%AAncia/Diagramas%20de%20Sequ%C3%AAncia.pdf" target="_blank">Diagramas de Sequência</a>
 
-- <a href="https://github.com/JuliaFCap/Trabalho-Arnaldo/blob/main/Engenharia%20de%20Software/Levantamento%20de%20Requisitos/Requisitos%20funcionais.pdf" target="_blank">Requisitos Funcionais</a>
-
-- <a href="https://github.com/JuliaFCap/Trabalho-Arnaldo/blob/main/Engenharia%20de%20Software/Levantamento%20de%20Requisitos/Requisitos%20n%C3%A3o%20funcionais.pdf" target="_blank">Requisitos não Funcionais</a>
+- <a href="https://github.com/JuliaFCap/Project-Banco-Bank/tree/main/Engenharia%20de%20Software/Levantamento%20de%20Requisitos" target="_blank">Levantamento de Requisitos</a>
 
 - <a href="https://github.com/JuliaFCap/Project-Banco-Bank/tree/main/Engenharia%20de%20Software/Wireframe">Wireframe<a/>
 
