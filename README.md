@@ -4,7 +4,7 @@
   Este repositório contém o desenvolvimento de um aplicativo de banco digital, com funcionalidades voltadas para gestão de contas, transferências, pagamentos e acompanhamento financeiro.
 O projeto foi estruturado com foco em segurança, usabilidade e escalabilidade, buscando simular a experiência real de um sistema bancário moderno.
 
-### Técnoogias
+### Técnogias
 
 ### 📖 Links Rápidos
 
