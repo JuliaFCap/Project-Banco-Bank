@@ -117,7 +117,7 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 ### 🏗️ Arquitetura
 - Microsserviços (40 iniciais)  
 - Kubernetes para orquestração  
-- **Bancos de dado:** PostgreSQL, DynamoDB/Cassandra, Redis, OpenSearch  
+- **Bancos de dados:** PostgreSQL, DynamoDB/Cassandra, Redis, OpenSearch  
 - Kafka para eventos  
 - API Gateway + WAF + KMS  
 
