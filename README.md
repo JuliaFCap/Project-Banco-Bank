@@ -4,8 +4,6 @@
   Este repositório contém o desenvolvimento de um aplicativo de banco digital, com funcionalidades voltadas para gestão de contas, transferências, pagamentos e acompanhamento financeiro.
 O projeto foi estruturado com foco em segurança, usabilidade e escalabilidade, buscando simular a experiência real de um sistema bancário moderno.
 
-### Técnogias
-
 ### 📖 Links Rápidos
 
 - <a href="https://github.com/JuliaFCap/Trabalho-Arnaldo/blob/main/Engenharia%20de%20Software/Hist%C3%B3ria%20de%20Usu%C3%A1rio/Hist%C3%B3rias%20de%20Usu%C3%A1rio.pdf" target="_blank">História de Usuário</a>
@@ -20,9 +18,9 @@ O projeto foi estruturado com foco em segurança, usabilidade e escalabilidade, 
 
 - <a href="https://www.figma.com/proto/VLk0xT5KpDvmrb7zorKtiX/Banco?node-id=1-1225&p=f&t=Zeth8WuoaiY4UI8K-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1" target="_blank">Telas no Figma</a>
 
-- <a href="" target="_blank">Relatório Contabil</a>
+- <a href="https://github.com/JuliaFCap/Project-Banco-Bank/blob/main/Engenharia%20de%20Software/Estimativas%20%20de%20Desenvolvimento.md" target="_blank">Estimativas de Desenvolvimento</a>
 
-- <a href="" target="_blank">5W 2H</a>
+- <a href="https://github.com/JuliaFCap/Project-Banco-Bank/blob/main/Engenharia%20de%20Software/Relat%C3%B3rio.md" target="_blank">Relatório</a>
 
 ### Autores:
 - Artur Rabello
