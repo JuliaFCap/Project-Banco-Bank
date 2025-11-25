@@ -1,4 +1,4 @@
-# 📱 Banco Bank – Aplicativo Banco Digital
+# 🏦 Banco Bank – Aplicativo Banco Digital
 ### 📌 Resumo
 
   Este repositório contém o desenvolvimento de um aplicativo de banco digital, com funcionalidades voltadas para gestão de contas, transferências, pagamentos e acompanhamento financeiro.
