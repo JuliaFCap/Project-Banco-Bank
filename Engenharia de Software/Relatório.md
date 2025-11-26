@@ -64,18 +64,18 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 #### **2025 – Fase 1**
 | Etapa                                     | Início        | Fim          | Entrega                                   |
 |-------------------------------------------|---------------|--------------|--------------------------------------------|
-| Planejamento e requisitos regulatórios    | 01/02/2025    | 31/05/2025   | Documento regulatório + mapeamento legal  |
-| Arquitetura do sistema e design           | 01/06/2025    | 31/07/2025   | Arquitetura + protótipos Figma            |
-| Construção do Core Banking                | 01/08/2025    | 30/04/2026   | Ledger + contas + transações               |
+| Planejamento e requisitos regulatórios    | 01/01/2026    | 31/04/2025   | Documento regulatório + mapeamento legal  |
+| Arquitetura do sistema e design           | 01/05/2026    | 30/06/2025   | Arquitetura + protótipos Figma            |
+| Construção do Core Banking                | 01/06/2026    | 30/04/2027   | Ledger + contas + transações               |
 
 #### **2026 – Fase 2**
 | Etapa                                     | Início        | Fim          | Entrega                                   |
 |-------------------------------------------|---------------|--------------|--------------------------------------------|
-| Desenvolvimento dos apps + Web            | 01/05/2026    | 31/10/2026   | Apps + Web funcional                      |
-| Infraestrutura e DevOps                   | 01/05/2026    | 31/07/2026   | Cluster + pipelines + automações          |
-| Segurança e Compliance                    | 01/05/2026    | 31/07/2026   | AppSec + Pentest + LGPD                   |
-| Beta fechado                               | 01/11/2026    | 31/12/2026   | Beta com 500 usuários                     |
-| Lançamento oficial                         | 01/01/2027    | Contínuo     | Escalabilidade + melhorias                |
+| Desenvolvimento dos apps + Web            | 01/05/2027    | 30/11/2027   | Apps + Web funcional                      |
+| Infraestrutura e DevOps                   | 01/05/2027    | 31/07/2027   | Cluster + pipelines + automações          |
+| Segurança e Compliance                    | 01/05/2027    | 31/07/2027   | AppSec + Pentest + LGPD                   |
+| Beta fechado                              | 01/11/2027    | 01/01/2028   | Beta com 500 usuários                     |
+| Lançamento oficial                        | 01/02/2028    | Contínuo     | Escalabilidade + melhorias                |
 
 ---
 
