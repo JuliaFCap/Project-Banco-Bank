@@ -4,6 +4,40 @@
   Este repositório contém o desenvolvimento de um aplicativo de banco digital, com funcionalidades voltadas para gestão de contas, transferências, pagamentos e acompanhamento financeiro.
 O projeto foi estruturado com foco em segurança, usabilidade e escalabilidade, buscando simular a experiência real de um sistema bancário moderno.
 
+---
+
+## Infraestrutura Técnica
+
+### 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?logo=apachecassandra&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D92C27?logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-1D72F3?logo=opensearch&logoColor=white)
+
+
+
+### 🧩 Aplicações
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-000000?logo=microservices&logoColor=white)
+
+
+### 🏗️ Infraestrutura Adicional
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
+![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?logo=googlecloud&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?logo=amazonapigateway&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![WAF](https://img.shields.io/badge/WAF-5A5A5A?logo=cloudflare&logoColor=white)
+![Armor](https://img.shields.io/badge/Armor-000000?logo=shield&logoColor=white)
+![Shield](https://img.shields.io/badge/Shield-0A66C2?logo=shield&logoColor=white)
+![HSM](https://img.shields.io/badge/HSM-4A4A4A?logo=hardware%20security&logoColor=white)
+![KMS](https://img.shields.io/badge/KMS-FF9900?logo=amazonaws&logoColor=white)
+
+---
+
 ### 📖 Links Rápidos
 
 - <a href="https://github.com/JuliaFCap/Trabalho-Arnaldo/blob/main/Engenharia%20de%20Software/Hist%C3%B3ria%20de%20Usu%C3%A1rio/Hist%C3%B3rias%20de%20Usu%C3%A1rio.pdf" target="_blank">História de Usuário</a>
@@ -21,6 +55,8 @@ O projeto foi estruturado com foco em segurança, usabilidade e escalabilidade, 
 - <a href="https://github.com/JuliaFCap/Project-Banco-Bank/blob/main/Engenharia%20de%20Software/Estimativas%20%20de%20Desenvolvimento.md" target="_blank">Estimativas de Desenvolvimento</a>
 
 - <a href="https://github.com/JuliaFCap/Project-Banco-Bank/blob/main/Engenharia%20de%20Software/Relat%C3%B3rio.md" target="_blank">Relatório</a>
+
+---
 
 ### Autores:
 - Artur Rabello
