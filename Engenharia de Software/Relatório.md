@@ -40,15 +40,38 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 
 ## 3. WHERE – Onde o projeto será executado?
 
-#### Infraestrutura
+#### » Backend
+- Java + Spring Boot  
+- Go  
+- Node.js + NestJS  
+- Kafka  
+- gRPC  
+- PostgreSQL  
+- Cassandra / DynamoDB  
+- Redis  
+- OpenSearch  
+- Kubernetes  
+- API Gateway  
+- KMS / HSM  
+
+#### » Frontend Web
+- Next.js  
+- React  
+- TypeScript  
+- TailwindCSS  
+
+#### » Mobile 
+- **Kotlin + Swift**
+
+#### » Infraestrutura
 - AWS / GCP / Azure  
 - Kubernetes + bancos de dados replicados
 
-#### Desenvolvimento
+#### » Desenvolvimento
 - Ambiente remoto ou híbrido  
 - Repositório oficial: **GitHub**
 
-#### Ferramentas do Projeto
+#### » Ferramentas do Projeto
 - Jira / ClickUp – Gestão
 - Slack / Discord – Comunicação
 - Figma – UX/UI
@@ -92,7 +115,7 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 | QA / Testes                | 3          |
 | Eng. Dados                 | 2          |
 | Ciência de Dados           | 2          |
-| SRE / DevOps               | 3          |
+| SRE / DevSecOps            | 3          |
 | Arquitetos Cloud           | 2          |
 | Observabilidade            | 1          |
 | AppSec                     | 2          |
@@ -157,7 +180,7 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 | PM                   | Planejamento, roadmap e comunicação com investidores |
 | Tech Lead Backend    | Core Banking, arquitetura e padrões de código        |
 | Tech Lead Mobile     | Apps Android/iOS                                     |
-| SRE                  | Infraestrutura, automações e CI/CD                   |
+| SRE/ DevSecOPs       | Infraestrutura, automações e CI/CD                   |
 | AppSec               | Segurança e auditoria                                |
 | UX/UI                | Prototipação e fluxo de experiência                  |
 | QA                   | Testes e garantia de qualidade                       |
