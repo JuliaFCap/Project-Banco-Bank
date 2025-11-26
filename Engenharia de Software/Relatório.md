@@ -63,18 +63,18 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 
 #### **Fase 1**
 | Etapa                                     | Início        | Fim          | Entrega                                   |
-|-------------------------------------------|---------------|--------------|--------------------------------------------|
-| Planejamento e requisitos regulatórios    | 01/01/2026    | 31/03/2026   | Documento regulatório + mapeamento legal  |
-| Arquitetura do sistema e design           | 01/04/2026    | 30/06/2026   | Arquitetura + protótipos Figma            |
-| Construção do Core Banking                | 01/06/2026    | 30/04/2027   | Ledger + contas + transações               |
+|-------------------------------------------|---------------|--------------|-------------------------------------------|
+| Planejamento e requisitos regulatórios    | 01/01/2026    | 31/04/2026   | Documento regulatório + mapeamento legal  |
+| Arquitetura do sistema e design           | 01/05/2026    | 30/06/2026   | Arquitetura + protótipos Figma            |
+| Construção do Core Banking                | 01/07/2026    | 30/03/2027   | Ledger + contas + transações              |
 
 #### **Fase 2**
 | Etapa                                     | Início        | Fim          | Entrega                                   |
-|-------------------------------------------|---------------|--------------|--------------------------------------------|
-| Desenvolvimento dos apps + Web            | 01/05/2027    | 30/11/2027   | Apps + Web funcional                      |
-| Infraestrutura e DevOps                   | 01/05/2027    | 31/07/2027   | Cluster + pipelines + automações          |
-| Segurança e Compliance                    | 01/05/2027    | 31/07/2027   | AppSec + Pentest + LGPD                   |
-| Beta fechado                              | 01/11/2027    | 01/01/2028   | Beta com 500 usuários                     |
+|-------------------------------------------|---------------|--------------|-------------------------------------------|
+| Desenvolvimento dos apps + Web            | 01/04/2027    | 30/10/2027   | Apps + Web funcional                      |
+| Infraestrutura e DevSecOps                | 01/04/2027    | 31/06/2027   | Cluster + pipelines + automações          |
+| Segurança e Compliance                    | 01/04/2027    | 31/06/2027   | AppSec + Pentest + LGPD                   |
+| Beta fechado                              | 01/07/2027    | 01/01/2028   | Beta com 500 usuários                     |
 | Lançamento oficial                        | 01/02/2028    | Contínuo     | Escalabilidade + melhorias                |
 
 ---
@@ -83,8 +83,8 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 
 ### 👥 Equipe Completa (48 Profissionais)
 
-| Área                        | Quantidade |
-|-----------------------------|------------|
+| Área                       | Quantidade |
+|----------------------------|------------|
 | Backend (Core Banking)     | 10         |
 | Mobile (Android/iOS)       | 5          |
 | Frontend Web               | 3          |
@@ -152,17 +152,17 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 
 ## 🎯 Papéis e Responsabilidades
 
-| Papel                | Responsabilidade                                   |
-|----------------------|----------------------------------------------------|
+| Papel                | Responsabilidade                                     |
+|----------------------|------------------------------------------------------|
 | PM                   | Planejamento, roadmap e comunicação com investidores |
-| Tech Lead Backend    | Core Banking, arquitetura e padrões de código     |
-| Tech Lead Mobile     | Apps Android/iOS                                  |
-| SRE                  | Infraestrutura, automações e CI/CD                |
-| AppSec               | Segurança e auditoria                              |
-| UX/UI                | Prototipação e fluxo de experiência               |
-| QA                   | Testes e garantia de qualidade                    |
-| Dados / CD           | Antifraude, scoring e análises                    |
-| Operações            | Suporte e processos bancários                     |
+| Tech Lead Backend    | Core Banking, arquitetura e padrões de código        |
+| Tech Lead Mobile     | Apps Android/iOS                                     |
+| SRE                  | Infraestrutura, automações e CI/CD                   |
+| AppSec               | Segurança e auditoria                                |
+| UX/UI                | Prototipação e fluxo de experiência                  |
+| QA                   | Testes e garantia de qualidade                       |
+| Dados / CD           | Antifraude, scoring e análises                       |
+| Operações            | Suporte e processos bancários                        |
 
 ---
 
