@@ -10,9 +10,9 @@
 | Arquitetura do sistema e design             | 2 meses                     |
 | Construção do Core Banking                  | 9 meses                     |
 | Desenvolvimento dos apps e plataforma web   | 6 meses                     |
-| Infraestrutura e DevOps                     | 3 meses                     |
+| Infraestrutura e DevSecOps                  | 3 meses                     |
 | Segurança e Compliance                      | 3 meses intensivos          |
-| Beta fechado                                 | 2 meses                     |
+| Beta fechado                                | 2 meses                     |
 | Lançamento e escalabilidade                 | Contínuo                    |
 
 ### 📅 **Tempo total estimado:** **24 meses**
@@ -54,6 +54,54 @@
 ---
 
 ## ☁️ 3. Infraestrutura Técnica
+
+### 🖥️ 1. Backend – Tecnologias Recomendadas
+
+Para um banco digital com core próprio, antifraude e alta disponibilidade, o stack ideal é:
+
+#### 🔧 Linguagem & Framework
+
+- **Java + Spring Boot** → padrão de mercado bancário  
+- **Go (Golang)** → microsserviços críticos de alta performance  
+- **Node.js (NestJS)** → serviços periféricos mais leves    
+
+ #### 🚀 Tecnologias Backend Finais Recomendadas
+
+- Java + Spring Boot  
+- Go  
+- Node.js + NestJS  
+- gRPC  
+- REST API  
+- Kafka  
+- Redis  
+- PostgreSQL  
+- Cassandra ou DynamoDB  
+- OpenSearch  
+- Kubernetes  
+- API Gateway  
+- **Key Management:** AWS KMS + HSM  
+
+### Frontend Web 
+
+- Plataforma web do usuário  
+- Painel bancário administrativo  
+- Velocidade + SEO + SSR  
+- Escalabilidade e modularidade  
+
+#### Stack Recomendado
+
+- **Next.js 14** (App Router + Server Components)  
+- **TypeScript**  
+- **TailwindCSS**  
+- **React Query / TanStack**  
+- **Vite** (para microfrontends)  
+
+### Mobile – Tecnologias Recomendadas
+
+#### **Kotlin (Android) + Swift (iOS)**
+- Máxima performance  
+- Melhor controle de criptografia e segurança  
+- Usado por Itaú, Bradesco, Inter, Nubank (parcial)  
 
 ### **Banco de Dados**
 - PostgreSQL (ledger principal)
