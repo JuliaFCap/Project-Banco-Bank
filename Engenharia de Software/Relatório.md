@@ -5,7 +5,7 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 ---
 
 # ⁕ Plano de ação 5W2H 
-## » 1. WHAT – O que será entregue?
+## 1. WHAT – O que será entregue?
 
 ---
 
@@ -29,7 +29,7 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 
 ---
 
-## » 2. WHY – Por que estamos fazendo isso?
+## 2. WHY – Por que estamos fazendo isso?
 
 - Atender à demanda crescente por soluções bancárias digitais acessíveis e seguras.  
 - Criar uma plataforma moderna, escalável e de alta disponibilidade.  
@@ -38,17 +38,17 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 
 ---
 
-## » 3. WHERE – Onde o projeto será executado?
+## 3. WHERE – Onde o projeto será executado?
 
-#### 🖥️ Infraestrutura
+#### Infraestrutura
 - AWS / GCP / Azure  
 - Kubernetes + bancos de dados replicados
 
-#### 👨‍💻 Desenvolvimento
+#### Desenvolvimento
 - Ambiente remoto ou híbrido  
 - Repositório oficial: **GitHub**
 
-#### 🛠️ Ferramentas do Projeto
+#### Ferramentas do Projeto
 - Jira / ClickUp – Gestão
 - Slack / Discord – Comunicação
 - Figma – UX/UI
@@ -57,7 +57,7 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 
 ---
 
-## » 4. WHEN – Quando será desenvolvido?
+## 4. WHEN – Quando será desenvolvido?
 
 #### 📅 Cronograma Completo (24 meses)
 
@@ -79,7 +79,7 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 
 ---
 
-## » 5. WHO – Quem fará o projeto?
+## 5. WHO – Quem fará o projeto?
 
 ### 👥 Equipe Completa (48 Profissionais)
 
@@ -106,22 +106,22 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 
 ---
 
-## » 6. HOW – Como será feito?
+## 6. HOW – Como será feito?
 
-### 🔧 Metodologia ágil
+### Metodologia ágil
 - Scrum + Kanban Híbrido  
 - Sprints quinzenais  
 - Releases mensais  
 - CI/CD totalmente automatizado  
 
-### 🏗️ Arquitetura
+### Arquitetura
 - Microsserviços (40 iniciais)  
 - Kubernetes para orquestração  
 - **Bancos de dados:** PostgreSQL, DynamoDB/Cassandra, Redis, OpenSearch  
 - Kafka para eventos  
 - API Gateway + WAF + KMS  
 
-### 💼 Cultura aplicada a empresa
+### Cultura aplicada a empresa
 - Code Review obrigatório  
 - Testes automatizados  
 - Monitoramento 24/7  
@@ -129,7 +129,7 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 
 ---
 
-## » 7. HOW MUCH – Quanto vai custar?
+## 7. HOW MUCH – Quanto vai custar?
 
 ### R$ Custos:
 
