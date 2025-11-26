@@ -61,14 +61,14 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 
 #### 📅 Cronograma Completo (24 meses)
 
-#### **2025 – Fase 1**
+#### **Fase 1**
 | Etapa                                     | Início        | Fim          | Entrega                                   |
 |-------------------------------------------|---------------|--------------|--------------------------------------------|
-| Planejamento e requisitos regulatórios    | 01/01/2026    | 31/04/2025   | Documento regulatório + mapeamento legal  |
-| Arquitetura do sistema e design           | 01/05/2026    | 30/06/2025   | Arquitetura + protótipos Figma            |
+| Planejamento e requisitos regulatórios    | 01/01/2026    | 31/03/2025   | Documento regulatório + mapeamento legal  |
+| Arquitetura do sistema e design           | 01/04/2026    | 30/06/2025   | Arquitetura + protótipos Figma            |
 | Construção do Core Banking                | 01/06/2026    | 30/04/2027   | Ledger + contas + transações               |
 
-#### **2026 – Fase 2**
+#### **Fase 2**
 | Etapa                                     | Início        | Fim          | Entrega                                   |
 |-------------------------------------------|---------------|--------------|--------------------------------------------|
 | Desenvolvimento dos apps + Web            | 01/05/2027    | 30/11/2027   | Apps + Web funcional                      |
