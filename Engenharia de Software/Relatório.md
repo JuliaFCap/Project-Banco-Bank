@@ -98,7 +98,7 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 | Infraestrutura e DevSecOps                | 01/04/2027    | 31/06/2027   | Cluster + pipelines + automações          |
 | Segurança e Compliance                    | 01/04/2027    | 31/06/2027   | AppSec + Pentest + LGPD                   |
 | Beta fechado                              | 01/11/2027    | 01/12/2027   | Beta com 500 usuários                     |
-| Lançamento oficial                        | 01/01/2028    | Contínuo     | Escalabilidade + melhorias                |
+| Lançamento oficial                        | 01/02/2028    | Contínuo     | Escalabilidade + melhorias                |
 
 ---
 
