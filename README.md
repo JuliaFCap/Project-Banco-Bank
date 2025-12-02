@@ -1,13 +1,16 @@
 # 🏦 Banco Bank – Aplicativo Banco Digital
-### 📌 Resumo
 
-  Este repositório contém o desenvolvimento de um aplicativo de banco digital, com funcionalidades voltadas para gestão de contas, transferências, pagamentos e acompanhamento financeiro.
+## 📌 Resumo
+
+Este repositório contém o desenvolvimento de um aplicativo de banco digital, com funcionalidades voltadas para gestão de contas, transferências, pagamentos e acompanhamento financeiro.
 O projeto foi estruturado com foco em segurança, usabilidade e escalabilidade, buscando simular a experiência real de um sistema bancário moderno.
 
 ---
+
 ## Infraestrutura Técnica
 
 ### 🖥️ Backend
+
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
@@ -25,6 +28,7 @@ O projeto foi estruturado com foco em segurança, usabilidade e escalabilidade, 
 ![KMS](https://img.shields.io/badge/KMS-FF9900?logo=amazonaws&logoColor=white)
 
 ### 🌐 Frontend Web
+
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -32,10 +36,12 @@ O projeto foi estruturado com foco em segurança, usabilidade e escalabilidade, 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
 ### 📱 Mobile
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 
 ### 🗄️ Banco de Dados
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?logo=apachecassandra&logoColor=white)
@@ -43,14 +49,13 @@ O projeto foi estruturado com foco em segurança, usabilidade e escalabilidade, 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-1D72F3?logo=opensearch&logoColor=white)
 
-
-
 ### 🧩 Aplicações
+
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-000000?logo=microservices&logoColor=white)
 
-
 ### 🏗️ Infraestrutura Adicional
+
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
 ![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?logo=googlecloud&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?logo=amazonapigateway&logoColor=white)
@@ -65,7 +70,7 @@ O projeto foi estruturado com foco em segurança, usabilidade e escalabilidade, 
 
 ---
 
-### 📖 Links Rápidos
+## 📖 Links Rápidos
 
 - <a href="https://github.com/JuliaFCap/Trabalho-Arnaldo/blob/main/Engenharia%20de%20Software/Hist%C3%B3ria%20de%20Usu%C3%A1rio/Hist%C3%B3rias%20de%20Usu%C3%A1rio.pdf" target="_blank">História de Usuário</a>
 
@@ -85,7 +90,8 @@ O projeto foi estruturado com foco em segurança, usabilidade e escalabilidade, 
 
 ---
 
-### Autores:
+## Autores:
+
 - Artur Rabello
 - Luis Rios
 - Maria Capellato
