@@ -50,19 +50,19 @@ Arredondado no relatório para:
 
 ## 📈 3) BENEFÍCIOS DO PROJETO (GANHOS)
 
-#### 💡 O padrão do mercado:
+### 💡 O padrão do mercado:
 
 Um banco digital com core próprio + apps + antifraude costuma:  
   
-Economizar entre R$ 18M e R$ 25M por ano comparado a contratar soluções prontas, licenças e sistemas de terceiros.  
-Evitar contratação de equipes externas (custaria cerca de R$ 40M/ano).  
-Reduzir custos operacionais por automação bancária (~R$ 10M/ano).  
+- Economizar entre R$ 18M e R$ 25M por ano comparado a contratar soluções prontas, licenças e sistemas de terceiros.  
+- Evitar contratação de equipes externas (custaria cerca de R$ 40M/ano).  
+- Reduzir custos operacionais por automação bancária (~R$ 10M/ano).  
   
-**Economia/benefício anual estimado: R$ 20.000.000/ano**
+### Economia/benefício anual estimado: R$ 20.000.000/ano
   
 Período para ROI: 3 anos após lançamento.  
   
-**Ganho total no período:**
+### Ganho total no período:
   
 $20.000.000 \times 3 = 60.000.000$
   
