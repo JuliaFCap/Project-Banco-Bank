@@ -84,9 +84,9 @@ O projeto foi estruturado com foco em segurança, usabilidade e escalabilidade, 
 
 - <a href="https://www.figma.com/proto/VLk0xT5KpDvmrb7zorKtiX/Banco?node-id=1-1225&p=f&t=Zeth8WuoaiY4UI8K-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1" target="_blank">Telas no Figma</a>
 
-- <a href="https://github.com/JuliaFCap/Project-Banco-Bank/blob/main/Engenharia%20de%20Software/Estimativas%20%20de%20Desenvolvimento.md" target="_blank">Estimativas de Desenvolvimento</a>
+- <a href="https://github.com/JuliaFCap/Project-Banco-Bank/blob/main/Engenharia%20de%20Software/Estimativas%20de%20Desenvolvimento/Estimativas%20de%20Desenvolvimento.md" target="_blank">Estimativas de Desenvolvimento</a>
 
-- <a href="https://github.com/JuliaFCap/Project-Banco-Bank/blob/main/Engenharia%20de%20Software/Relat%C3%B3rio.md" target="_blank">Relatório</a>
+- <a href="https://github.com/JuliaFCap/Project-Banco-Bank/blob/main/Engenharia%20de%20Software/Relat%C3%B3rio/Relat%C3%B3rio.md" target="_blank">Relatório</a>
 
 ---
 
