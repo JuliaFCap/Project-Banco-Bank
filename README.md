@@ -88,6 +88,8 @@ O projeto foi estruturado com foco em segurança, usabilidade e escalabilidade, 
 
 - <a href="https://github.com/JuliaFCap/Project-Banco-Bank/blob/main/Engenharia%20de%20Software/Relat%C3%B3rio/Relat%C3%B3rio.md" target="_blank">Relatório</a>
 
+- <a href="https://github.com/JuliaFCap/Project-Banco-Bank/blob/main/Engenharia%20de%20Software/ROI%20Completo/ROI%20Completo.md" target="_blank">ROI Completo</a>
+
 ---
 
 ## Autores:
