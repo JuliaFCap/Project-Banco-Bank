@@ -1,26 +1,27 @@
 # 🏦 Projeto Banco Bank – Relatório Executivo
 
-O **Banco Bank** é um banco digital completo, incluindo core bancário próprio, aplicações mobile, plataforma web.
+O **Banco Bank** é um banco digital completo, incluindo core bancário próprio, aplicações mobile, plataforma web.  
+  
+---
+
+## Plano de ação 5W2H
 
 ---
 
-# ⁕ Plano de ação 5W2H 
-## 1. WHAT – O que será entregue?
+### 1. WHAT – O que será entregue?
 
----
+#### 📍 Módulos Principais
+- Core Banking (ledger, contas, saldos, transações)
+- Sistema de autenticação (MFA, tokens seguros)
+- Aplicativos mobile: Android e iOS
+- Plataforma Web (React/Next.js)
+- Painel Administrativo Interno (operações bancárias)
+- Motor antifraude e análise de risco
+- Integrações bancárias: Pix, boletos e TED
+- Monitoramento, auditoria e trilhas de segurança
+- Infraestrutura Kubernetes com microsserviços
 
-### 📍 Módulos Principais
-- **Core Banking** (ledger, contas, saldos, transações)
-- **Sistema de autenticação** (MFA, tokens seguros)
-- **Aplicativos mobile** Android e iOS
-- **Plataforma Web** (React/Next.js)
-- **Painel Administrativo Interno** (operações bancárias)
-- **Motor antifraude e análise de risco**
-- **Integrações bancárias:** Pix, boletos e TED
-- **Monitoramento, auditoria e trilhas de segurança**
-- **Infraestrutura Kubernetes com microsserviços**
-
-### 📍 Entregas Finais
+#### 📍 Entregas Finais
 - Apps Android/iOS publicados
 - Plataforma web em produção
 - Core Banking estável e auditável
@@ -29,16 +30,16 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 
 ---
 
-## 2. WHY – Por que estamos fazendo isso?
+### 2. WHY – Por que estamos fazendo isso?
 
 - Atender à demanda crescente por soluções bancárias digitais acessíveis e seguras.  
 - Criar uma plataforma moderna, escalável e de alta disponibilidade.  
-- Preparar o produto para captação futura **Série A**.  
+- Preparar o produto para captação futura Série A.  
 - Resolver problemas comuns dos bancos tradicionais: tarifas altas, lentidão, burocracia e falta de inovação.
 
 ---
 
-## 3. WHERE – Onde o projeto será executado?
+### 3. WHERE – Onde o projeto será executado?
 
 #### » Backend
 - Java + Spring Boot  
@@ -61,7 +62,7 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 - TailwindCSS  
 
 #### » Mobile 
-- **Kotlin + Swift**
+- Kotlin + Swift
 
 #### » Infraestrutura
 - AWS / GCP / Azure  
@@ -69,7 +70,7 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 
 #### » Desenvolvimento
 - Ambiente remoto ou híbrido  
-- Repositório oficial: **GitHub**
+- Repositório oficial: GitHub
 
 #### » Ferramentas do Projeto
 - Jira / ClickUp – Gestão
@@ -80,7 +81,7 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 
 ---
 
-## 4. WHEN – Quando será desenvolvido?
+### 4. WHEN – Quando será desenvolvido?
 
 #### 📅 Cronograma Completo (24 meses)
 
@@ -102,9 +103,9 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 
 ---
 
-## 5. WHO – Quem fará o projeto?
+### 5. WHO – Quem fará o projeto?
 
-### 👥 Equipe Completa (48 Profissionais)
+#### 👥 Equipe Completa (48 Profissionais)
 
 | Área                       | Quantidade |
 |----------------------------|------------|
@@ -129,22 +130,22 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 
 ---
 
-## 6. HOW – Como será feito?
+### 6. HOW – Como será feito?
 
-### Metodologia ágil
+#### Metodologia ágil
 - Scrum + Kanban Híbrido  
 - Sprints quinzenais  
 - Releases mensais  
 - CI/CD totalmente automatizado  
 
-### Arquitetura
+#### Arquitetura
 - Microsserviços (40 iniciais)  
 - Kubernetes para orquestração  
-- **Bancos de dados:** PostgreSQL, DynamoDB/Cassandra, Redis, OpenSearch  
+- Bancos de dados: PostgreSQL, DynamoDB/Cassandra, Redis, OpenSearch  
 - Kafka para eventos  
 - API Gateway + WAF + KMS  
 
-### Cultura aplicada a empresa
+#### Cultura aplicada a empresa
 - Code Review obrigatório  
 - Testes automatizados  
 - Monitoramento 24/7  
@@ -152,28 +153,28 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 
 ---
 
-## 7. HOW MUCH – Quanto vai custar?
+### 7. HOW MUCH – Quanto vai custar?
 
 ### R$ Custos:
 
 #### **Custo anual da equipe**
-**R$ 22.800.000**
+R$ 22.800.000,00
 
 #### **Custo anual da infraestrutura**
-**R$ 3.060.000**
+R$ 3.060.000,00
 
 ####  Investimento total (24 meses)
-**R$ 51.720.000**
+R$ 51.720.000,00
 
 ####  Reserva de risco operacional (10%)
-**R$ 5.172.000**
+R$ 5.172.000,00
 
 ### Total final solicitado aos Investidores-Anjo
-## **R$ 57.000.000**
+**R$ 57.000.000,00**
 
 ---
 
-## 🎯 Papéis e Responsabilidades
+### 🎯 Papéis e Responsabilidades
 
 | Papel                | Responsabilidade                                     |
 |----------------------|------------------------------------------------------|
@@ -189,7 +190,7 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 
 ---
 
-## 📢 Como Manter a Equipe Motivada
+### 📢 Como Manter a Equipe Motivada
 
 - Bônus por metas alinhadas ao cronograma  
 - Retrospectivas contínuas  
