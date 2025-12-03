@@ -2,7 +2,7 @@
 
 ---
 
-## 🧩 1) RESUMO DO PROJETO
+## 1) RESUMO DO PROJETO
 
 | Item               | Valor                               |
 | ------------------ | ------------------------------------|
@@ -13,7 +13,7 @@
 
 ---
 
-## 💰 2) INVESTIMENTO TOTAL DO PROJETO
+## 2) INVESTIMENTO TOTAL DO PROJETO
 
 ### 2.1 – Custos de Desenvolvimento (Equipe)
 
@@ -36,7 +36,7 @@ Total: R$ 6.120.000
 ### 2.3 – Reserva de risco
 RDR = R$ 5.172.000
 
-### 💵 INVESTIMENTO TOTAL (REAL)
+### $$ INVESTIMENTO TOTAL (REAL)
 
 Somando tudo:
 
@@ -44,13 +44,13 @@ $45.600.000 + 6.120.000 + 5.172.000 = 56.892.000$
 
 Arredondado no relatório para:
 
-**⭐ Total final: R$ 57.000.000**
+**»» Total final: R$ 57.000.000**
 
 ---
 
-## 📈 3) BENEFÍCIOS DO PROJETO (GANHOS)
+## 3) BENEFÍCIOS DO PROJETO (GANHOS)
 
-### 💡 O padrão do mercado:
+### O padrão do mercado:
 
 Um banco digital com core próprio + apps + antifraude costuma:  
   
@@ -70,7 +70,7 @@ $20.000.000 \times 3 = 60.000.000$
 
 ---
 
-## 🔢 4) CÁLCULO FINAL DO ROI
+## 4) CÁLCULO FINAL DO ROI
 
 $ROI = \frac{Ganho - Investimento}{Investimento} \times 100$
 
@@ -89,13 +89,13 @@ Em termos percentuais, isso representa um retorno de 426% sobre o valor aplicado
 
 ---
 
-## 🧮 ROI FINAL DO BANCO BANK: 5,26% (em 3 anos)
+## »» ROI FINAL DO BANCO BANK: 5,26% (em 3 anos)
 
-- **✔️ O projeto se paga após ~3 anos**
+- ** > O projeto se paga após ~3 anos**
   
-- **✔️ ROI positivo → o banco gera valor**
+- ** > ROI positivo → o banco gera valor**
   
-- **✔️ É um ROI conservador, porque:**
+- ** > É um ROI conservador, porque:**
 
   - Bancos digitais frequentemente ultrapassam R$ 100M/ano de economia a partir do 4º ano.  
   - Aquisição de clientes e receita melhora ROI drasticamente.  
@@ -103,4 +103,4 @@ Em termos percentuais, isso representa um retorno de 426% sobre o valor aplicado
   
 - Com crescimento de clientes, o ROI real tende a:  
   
-   - **🔥 80%–200% em 5 anos**
+   - ** 80%–200% em 5 anos**
