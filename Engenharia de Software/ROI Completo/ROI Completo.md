@@ -9,7 +9,7 @@
 | Nome               | Banco Bank                          |
 | Duração            | 24 meses                            |
 | Equipe             | 48 profissionais                    |
-| Investimento total | R$ 57.000.000 (já inclui 10% risco) |
+| Investimento total | R$ 57.000.000,00 (já inclui 10% risco) |
 
 ---
 
@@ -22,7 +22,7 @@ Duração: 24 meses (= 2 anos)
 
 $22.800.000 \times 2 = 45.600.000$
 
-Custo total da equipe: R$ 45.600.000  
+Custo total da equipe: R$ 45.600.000,00  
 
 ### 2.2 – Custos de Infraestrutura
 
@@ -31,10 +31,10 @@ Duração: 24 meses
   
 $3.060.000 \times 2 = 6.120.000$
   
-Total: R$ 6.120.000
+Total: R$ 6.120.000,00
 
 ### 2.3 – Reserva de risco
-RDR = R$ 5.172.000
+RDR = R$ 5.172.000,00
 
 ### $$ INVESTIMENTO TOTAL (REAL)
 
@@ -44,7 +44,7 @@ $45.600.000 + 6.120.000 + 5.172.000 = 56.892.000$
 
 Arredondado no relatório para:
 
-**»» Total final: R$ 57.000.000**
+**»» Total final: R$ 57.000.000,00**
 
 ---
 
@@ -66,7 +66,7 @@ Período para ROI: 3 anos após lançamento.
   
 $20.000.000 \times 3 = 60.000.000$
   
-**Total = R$ 60.000.000**
+**Total = R$ 60.000.000,00**
 
 ---
 
@@ -91,11 +91,11 @@ Em termos percentuais, isso representa um retorno de 426% sobre o valor aplicado
 
 ## »» ROI FINAL DO BANCO BANK: 5,26% (em 3 anos)
 
-- ** > O projeto se paga após ~3 anos**
+- **> O projeto se paga após ~3 anos**
   
-- ** > ROI positivo → o banco gera valor**
+- **> ROI positivo → o banco gera valor**
   
-- ** > É um ROI conservador, porque:**
+- **> É um ROI conservador, porque:**
 
   - Bancos digitais frequentemente ultrapassam R$ 100M/ano de economia a partir do 4º ano.  
   - Aquisição de clientes e receita melhora ROI drasticamente.  
@@ -103,4 +103,4 @@ Em termos percentuais, isso representa um retorno de 426% sobre o valor aplicado
   
 - Com crescimento de clientes, o ROI real tende a:  
   
-   - ** 80%–200% em 5 anos**
+   - **80%–200% em 5 anos**
