@@ -1,4 +1,4 @@
-# 🏦 Projeto Banco Bank – Relatório Executivo
+# 🏦 Relatório Executivo - Banco Bank
 
 O **Banco Bank** é um banco digital completo, incluindo core bancário próprio, aplicações mobile, plataforma web.  
   
