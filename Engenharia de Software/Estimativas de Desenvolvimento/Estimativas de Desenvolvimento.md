@@ -137,24 +137,24 @@ Para um banco digital com core próprio, antifraude e alta disponibilidade, o st
 ## 💲 4. Custos Consolidados (Valores Fixos)
 
 ### **4.1. Custo da Equipe (médio por função)**
-- Desenvolvedores: **R$ 25.000/mês**  
-- Segurança / Infraestrutura: **R$ 32.000/mês**  
-- UX / PM / Compliance: **R$ 20.000/mês**
+- Desenvolvedores: **R$ 25.000,00/mês**  
+- Segurança / Infraestrutura: **R$ 32.000,00/mês**  
+- UX / PM / Compliance: **R$ 20.000,00/mês**
 
-**Custo mensal da equipe:** **R$ 1.900.000**  
-**Custo anual da equipe:** **R$ 22.800.000**
+**Custo mensal da equipe:** **R$ 1.900.000,00**  
+**Custo anual da equipe:** **R$ 22.800.000,00**
 
 ---
 
 ### **4.2. Custo da Infraestrutura**
-- Kubernetes: **R$ 90.000/mês**  
-- Banco de dados: **R$ 70.000/mês**  
-- Storage e CDN: **R$ 25.000/mês**  
-- Logs e monitoramento: **R$ 40.000/mês**  
-- Segurança (WAF, IAM, KMS): **R$ 30.000/mês**
+- Kubernetes: **R$ 90.000,00/mês**  
+- Banco de dados: **R$ 70.000,00/mês**  
+- Storage e CDN: **R$ 25.000,00/mês**  
+- Logs e monitoramento: **R$ 40.000,00/mês**  
+- Segurança (WAF, IAM, KMS): **R$ 30.000,00/mês**
 
-**Custo mensal total:** **R$ 255.000**  
-**Custo anual total:** **R$ 3.060.000**
+**Custo mensal total:** **R$ 255.000,00**  
+**Custo anual total:** **R$ 3.060.000,00**
 
 ---
 
@@ -166,6 +166,6 @@ Para um banco digital com core próprio, antifraude e alta disponibilidade, o st
 | **Equipe total**                  | **48 profissionais**           |
 | **Custo do primeiro ano**         | R$ 22.800.000 (equipe)         |
 |                                   | R$ 3.060.000 (infraestrutura)  |
-| **Total geral**                   | **R$ 25.860.000**              |
+| **Total geral**                   | **R$ 25.860.000,00**              |
 
 
