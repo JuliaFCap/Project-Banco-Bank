@@ -53,7 +53,7 @@
 
 ---
 
-## ☁️ 3. Infraestrutura Técnica
+## 3. Infraestrutura Técnica
 
 ### Backend – Tecnologias Recomendadas
 
