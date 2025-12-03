@@ -70,7 +70,7 @@ O projeto foi estruturado com foco em segurança, usabilidade e escalabilidade, 
 
 ---
 
-## 📖 Links Rápidos
+## Links Rápidos
 
 - <a href="https://github.com/JuliaFCap/Trabalho-Arnaldo/blob/main/Engenharia%20de%20Software/Hist%C3%B3ria%20de%20Usu%C3%A1rio/Hist%C3%B3rias%20de%20Usu%C3%A1rio.pdf" target="_blank">História de Usuário</a>
 
