@@ -82,6 +82,11 @@ $ROI = \frac{3.000.000}{57.000.000} \times 100$
 
 **$ROI = \textbf{5,26%}$**
 
+Um ROI **(Retorno sobre o Investimento) de 5,26** significa que:
+
+» Para cada R$ 1,00 investido, você obteve um retorno total de R$ 5,26 (R$ 1,00 do valor original investido mais R$ 4,26 de lucro). 
+Em termos percentuais, isso representa um retorno de 426% sobre o valor aplicado. 
+
 ---
 
 ## 🧮 ROI FINAL DO BANCO BANK: 5,26% (em 3 anos)
