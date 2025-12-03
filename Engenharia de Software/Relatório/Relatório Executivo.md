@@ -141,7 +141,7 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 - CI/CD totalmente automatizado  
 
 #### Arquitetura
-- Microsserviços (40 iniciais)  
+- Microsserviços (4.000 iniciais)  
 - Kubernetes para orquestração  
 - Bancos de dados: PostgreSQL, DynamoDB/Cassandra, Redis, OpenSearch  
 - Kafka para eventos  
