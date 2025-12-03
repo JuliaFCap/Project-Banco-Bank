@@ -10,7 +10,7 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 
 ### 1. WHAT – O que será entregue?
 
-#### 📍 Módulos Principais
+#### Módulos Principais
 - Core Banking (ledger, contas, saldos, transações)
 - Sistema de autenticação (MFA, tokens seguros)
 - Aplicativos mobile: Android e iOS
@@ -21,7 +21,7 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 - Monitoramento, auditoria e trilhas de segurança
 - Infraestrutura Kubernetes com microsserviços
 
-#### 📍 Entregas Finais
+#### Entregas Finais
 - Apps Android/iOS publicados
 - Plataforma web em produção
 - Core Banking estável e auditável
@@ -83,7 +83,9 @@ O **Banco Bank** é um banco digital completo, incluindo core bancário próprio
 
 ### 4. WHEN – Quando será desenvolvido?
 
-#### 📅 Cronograma Completo (24 meses)
+#### Cronograma Completo 
+
+- Estimativa de Lançamento em 24 meses (2 anos)
 
 #### **Fase 1**
 | Etapa                                     | Início        | Fim          | Entrega                                   |
