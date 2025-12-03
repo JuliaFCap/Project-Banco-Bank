@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 1. Etapas do Desenvolvimento
+## 1. Etapas do Desenvolvimento
 
 | Etapa                                       | Duração Definida           |
 |---------------------------------------------|-----------------------------|
@@ -15,11 +15,11 @@
 | Beta fechado                                | 2 meses                     |
 | Lançamento e escalabilidade                 | Contínuo                    |
 
-### 📅 **Tempo total estimado:** **24 meses**
+### **Tempo total estimado:** **24 meses**
 
 ---
 
-## 👥 2. Equipe Necessária (Valores Fixos)
+## 2. Equipe Necessária (Valores Fixos)
 
 ### **Desenvolvimento**
 - **Backend:** 10 desenvolvedores  
@@ -49,23 +49,23 @@
 - 3 Suporte / Operações bancárias  
 - 2 Analistas de risco e fraude  
 
-### ✔️ **Total da equipe definida:** **48 profissionais**
+### **Total da equipe definida:** **48 profissionais**
 
 ---
 
 ## ☁️ 3. Infraestrutura Técnica
 
-### 🖥️ 1. Backend – Tecnologias Recomendadas
+### Backend – Tecnologias Recomendadas
 
 Para um banco digital com core próprio, antifraude e alta disponibilidade, o stack ideal é:
 
-#### 🔧 Linguagem & Framework
+#### Linguagem & Framework
 
 - **Java + Spring Boot** → padrão de mercado bancário  
 - **Go (Golang)** → microsserviços críticos de alta performance  
 - **Node.js (NestJS)** → serviços periféricos mais leves    
 
- #### 🚀 Tecnologias Backend Finais Recomendadas
+ #### Tecnologias Backend Finais Recomendadas
 
 - Java + Spring Boot  
 - Go  
@@ -134,7 +134,7 @@ Para um banco digital com core próprio, antifraude e alta disponibilidade, o st
 
 ---
 
-## 💲 4. Custos Consolidados (Valores Fixos)
+## 4. Custos Consolidados (Valores Fixos)
 
 ### **4.1. Custo da Equipe (médio por função)**
 - Desenvolvedores: **R$ 25.000,00/mês**  
@@ -158,7 +158,7 @@ Para um banco digital com core próprio, antifraude e alta disponibilidade, o st
 
 ---
 
-## 📊 5. Totais Gerais
+## 5. Totais Gerais
 
 | Item                             | Valor Final                   |
 |----------------------------------|-------------------------------|
